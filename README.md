@@ -2,11 +2,10 @@
 
 ### A Multivariate Feature-Engineered Time Series Analysis
 
-**Course:** Financial Time Series Analytics 
-
+**Course:** Financial Time Series Analytics                                                                                               
 **Product:** Grapefruit *(Citrus paradisi)*  
-**Data Source:** USDA Economic Research Service — Fruit and Tree Nuts Yearbook  
-**Period:** Marketing years 1980/81 – 2023/24 (44 annual observations)
+**Data Source:** USDA Economic Research Service-Fruit and Tree Nuts Yearbook  
+**Period:** Marketing years 1980/81 - 2023/24 (44 annual observations)
 
 ---
 
